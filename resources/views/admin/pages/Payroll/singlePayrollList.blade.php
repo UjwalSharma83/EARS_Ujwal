@@ -84,7 +84,7 @@
                                 <td>{{ $item->month }}</td>
                                 <td>{{ $item->year }}</td>
                                 <td>{{ $item->salaryStructure->salary_class }}</td>
-                                <td>{{ $item->salaryStructure->total_salary }} BDT</td>
+                                <td>{{ $item->salaryStructure->total_salary }} CAD</td>
                                 {{-- <td>{{ $item->deduction }}</td>
                                 <td>{{ $item->reason }}</td>
                                 <td>{{ $item->total_payable }}</td> --}}
@@ -102,16 +102,16 @@
                             <ul class="list-unstyled">
                                 <li class="text-muted ms-3 mt-2"><span class="text-black me-4">Deduction({{
                                         $item->reason }})</span>{{
-                                    $item->deduction }} BDT</li>
+                                    $item->deduction }} CAD</li>
                             </ul>
                             <p class="text-black float-start"><span class="text-black me-3"> Total Amount</span><span
-                                    style="font-size: 25px;">{{ $item->total_payable }} BDT</span></p>
+                                    style="font-size: 25px;">{{ $item->total_payable }} CAD</span></p>
                         </div>
                     </div>
                     <hr>
                     <div class="row">
                         <div class="col-xl-10">
-                            <p>© 2023 Copyright: Employee Management System | Akik Hossain</p>
+                            <p>© 2023 Copyright: Employee Management System | Ujwal Sharma</p>
                         </div>
                     </div>
                 </div>

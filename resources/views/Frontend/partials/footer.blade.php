@@ -7,22 +7,22 @@
                     <h3 class="footer-title">Contact Info </h3>
                     <div class="contact-info">
                         <span class="contact-icon"><i class="fa fa-map-marker"></i></span>
-                        <span class="contact-text">4 Embankment Drive Road,Sector-10 <br> Uttara, Dhaka 1230 </span>
+                        <span class="contact-text">12424 Dixie Road <br> Caledon, Ontario </span>
                     </div>
                     <div class="contact-info">
                         <span class="contact-icon"><i class="fa fa-phone"></i></span>
-                        <span class="contact-text">+8801701476579</span>
+                        <span class="contact-text">+1 647-897-5074</span>
                     </div>
                     <div class="contact-info">
                         <span class="contact-icon"><i class="fa fa-envelope"></i></span>
-                        <span class="contact-text">20103087@iubat.edu</span>
+                        <span class="contact-text">ups@gmail.com</span>
                     </div>
                     <div class="ft-social">
                         <ul>
-                            <li><a href="https://www.facebook.com/akikhossain.abid"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/ujwal.sharma.3994?mibextid=LQQJ4d"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="https://twitter.com/AKHS87"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/akikhossain/"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://x.com/sematharu"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/ujwal-sharma-405698247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><i class="fa fa-linkedin"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                         </ul>
@@ -45,7 +45,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <ul class="arrow">
-                                <li><a href="{{ route('contacts') }}">Contact Us</a></li>
+                                <li><a href="{{ route('contacts') }}">Application</a></li>
                                 <li><a href="{{ route('client.list') }}">Partner</a></li>
                                 <li><a href="#">Notice</a></li>
                             </ul>
@@ -57,7 +57,7 @@
             <!-- footer-useful links -->
             <div class=" col-lg-5 col-md-5 col-sm-12 col-xs-12">
                 <div class="ft-logo"><img class="rounded"
-                        src="https://i.ibb.co/w7GnVBw/4101adc6-07bf-42cd-9723-b7baa76d9bef.jpg" alt=""></div>
+                        src="{{ asset('assests/image/logo.jpeg') }}" alt=""></div>
             </div>
             <!-- /.footer-useful links -->
         </div>
@@ -68,7 +68,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <p>Copyright © All Rights Reserved 2024 Employee Management System by
-                        <a href="https://github.com/akikhossain" target="_blank" class="copyrightlink">Akik Hossain</a>
+                        <a href="https://github.com/UjwalSharma83" target="_blank" class="copyrightlink">Ujwal Sharma</a>
                     </p>
                 </div>
             </div>

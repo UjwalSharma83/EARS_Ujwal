@@ -184,7 +184,7 @@
                             </div>
                         </div>
                         <div class="mt-3 simple-footer text-white fw-bold ">
-                            Copyright &copy; HRM System 2023 | Akik Hossain
+                            Copyright &copy; HRM System 2023 | Ujwal Sharma
                         </div>
                     </div>
                 </div>

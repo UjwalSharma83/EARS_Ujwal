@@ -31,7 +31,7 @@ class manageEmployeeController extends Controller
             'date_of_birth' => 'required|date',
             'hire_date' => 'required|date',
             'email' => 'required|email|max:255|unique:employees,email',
-            'phone' => 'required|string|max:20|min:11|regex:/^(?:\+?88)?01[3-9]\d{8}$/',
+            'phone' => 'required|string|max:20|min:10|regex:/^(?:\+?1)?[2-9]\d{2}[2-9]\d{2}\d{4}$/',
             'joining_mode' => 'required',
             'location' => 'required|string|max:100',
         ]);

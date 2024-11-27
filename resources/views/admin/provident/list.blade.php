@@ -32,8 +32,8 @@
                 <td>{{ $employee->employee_name }}</td>
                 <td>{{ $employee->designation_name }}</td>
                 <td>{{ $employee->department_name }}</td>
-                <td>{{ number_format($employee->total_salary, 2) }} BDT</td>
-                <td>{{ number_format($employee->total_provident_fund, 2) }} BDT</td>
+                <td>{{ number_format($employee->total_salary, 2) }} CAD</td>
+                <td>{{ number_format($employee->total_provident_fund, 2) }} CAD</td>
 
             </tr>
             @endforeach

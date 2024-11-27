@@ -134,3 +134,4 @@ If you encounter any issues or have questions, please contact our support team a
 We would like to express our gratitude to the Laravel community for providing the robust framework that made this project possible.
 
 Thank you for considering the Employee Management System for your organization. We hope this system enhances your employee management processes and makes your workplace more efficient and organized.
+# EARS_Ujwal

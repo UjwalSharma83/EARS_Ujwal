@@ -39,12 +39,12 @@
                     </div>
                 </td>
                 <td>{{ $salary->salary_class }}</td>
-                <td>{{ $salary->basic_salary }} BDT</td>
-                <td>{{ $salary->medical_expenses }} BDT</td>
-                <td>{{ $salary->mobile_allowance }} BDT</td>
-                <td>{{ $salary->houseRent_allowance }} BDT</td>
+                <td>{{ $salary->basic_salary }} CAD</td>
+                <td>{{ $salary->medical_expenses }} CAD</td>
+                <td>{{ $salary->mobile_allowance }} CAD</td>
+                <td>{{ $salary->houseRent_allowance }} CAD</td>
                 <!-- Displaying House Rent Allowance -->
-                <td>{{ $totalSalary }} BDT</td>
+                <td>{{ $totalSalary }} CAD</td>
                 <td>
                     <a class="btn btn-success rounded-pill" href="{{ route('salaryEdit', $salary->id) }}"><i
                             class="fa-solid fa-pen-to-square"></i></a>

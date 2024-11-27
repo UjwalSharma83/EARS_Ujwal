@@ -25,13 +25,13 @@
                     <tr>
                         <td>{{ $pf['month'] }}</td>
                         <td>{{ $pf['year'] }}</td>
-                        <td>{{ number_format($pf['total_payable'], 2) }} BDT</td>
-                        <td>{{ number_format($pf['provident_fund'], 2) }} BDT</td>
+                        <td>{{ number_format($pf['total_payable'], 2) }} CAD</td>
+                        <td>{{ number_format($pf['provident_fund'], 2) }} CAD</td>
                     </tr>
                     @endforeach
                     <tr>
                         <td colspan="3"><strong>Total Provident Fund</strong></td>
-                        <td><strong>{{ number_format($totalProvidentFund, 2) }} BDT</strong></td>
+                        <td><strong>{{ number_format($totalProvidentFund, 2) }} CAD</strong></td>
                     </tr>
                 </tbody>
             </table>

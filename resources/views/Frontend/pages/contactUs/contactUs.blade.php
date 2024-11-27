@@ -69,8 +69,8 @@
                         <div class="contact-section">
                             <div class="contact-icon"><i class="fa fa-map-marker"></i></div>
                             <div class="contact-info">
-                                <p>4 Embankment Drive Road,Sector-10
-                                    Uttara, Dhaka 1230</p>
+                                <p>12424 Dixie Road Caledon,Ontario
+                                    Ontario, Canada</p>
                             </div>
                         </div>
                     </div>
@@ -78,8 +78,8 @@
                         <div class="contact-section">
                             <div class="contact-icon"><i class="fa fa-phone"></i></div>
                             <div class="contact-info">
-                                <p>+8801701476579
-                                    <br>+8801701476579
+                                <p>+1 647-897-5074
+                                    <br>+1 647-897-5074
                                 </p>
                             </div>
                         </div>
@@ -88,8 +88,8 @@
                         <div class="contact-section">
                             <div class="contact-icon  "><i class="fa fa-envelope"></i></div>
                             <div class="contact-info">
-                                <p>20103087@iubat.edu
-                                    <br>akikhs00@gmail.com
+                                <p>ups@gmail.com
+                                    <br>ujwalsharma83@gmail.com
                                 </p>
                             </div>
                         </div>
@@ -111,13 +111,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="location-block">
                         <div class="location-content  ">
-                            <h3>HRHUB360, Dhaka</h3>
-                            <p>1230 Uttara, Dhaka, Bangladesh</p>
+                            <h3>UPS Canada</h3>
+                            <p>1230 UPS Toronto, Ontario</p>
                             <ul>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-phone"></i></span><span>+8801701476579</span></li>
+                                            class="fa fa-phone"></i></span><span>+1 647-897-5074</span></li>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-envelope"></i></span><span>20103087@iubat.edu</span></li>
+                                            class="fa fa-envelope"></i></span><span>ups@gmail.com</span></li>
                             </ul>
                         </div>
                     </div>
@@ -125,13 +125,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="location-block">
                         <div class="location-content">
-                            <h3>HRHUB360, Sylhet</h3>
-                            <p>Srimangal,Moulvibazar District, Bangladesh</p>
+                            <h3>UPS Caledon, Ontario</h3>
+                            <p>12424 Dixie Road, Caledon, Ontario</p>
                             <ul>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-phone"></i></span><span>+8801645476579</span></li>
+                                            class="fa fa-phone"></i></span><span>+1 647-897-5074</span></li>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-envelope"></i></span><span>sylhet@gmail.com</span></li>
+                                            class="fa fa-envelope"></i></span><span>ujwalsharma83@gmail.com</span></li>
                             </ul>
                         </div>
                     </div>
@@ -139,13 +139,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="location-block">
                         <div class="location-content">
-                            <h3>HRHUB360, Chittagong</h3>
-                            <p>Pahartali, Chattogram Division, Bangladesh</p>
+                            <h3>UPS Mississauga</h3>
+                            <p>UPS Mavis Road </p>
                             <ul>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-phone"></i></span><span>+8801445446529</span></li>
+                                            class="fa fa-phone"></i></span><span>+1 647-897-5074</span></li>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-envelope"></i></span><span>pahartoli@gmail.com</span></li>
+                                            class="fa fa-envelope"></i></span><span>upshr@gmail.com</span></li>
                             </ul>
                         </div>
                     </div>

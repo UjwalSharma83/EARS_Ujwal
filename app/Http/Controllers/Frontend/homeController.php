@@ -80,7 +80,7 @@ class homeController extends Controller
         $validate = Validator::make($request->all(), [
             'name' => 'required',
             'email' => 'required|email',
-            'phone' => 'required|string|max:20|min:11|regex:/^(?:\+?88)?01[3-9]\d{8}$/',
+            'phone' => 'required|string|max:20|min:10|regex:/^(?:\+?1)?[2-9]\d{2}[2-9]\d{2}\d{4}$/',
             'subject' => 'required',
             'message' => 'required',
         ]);
