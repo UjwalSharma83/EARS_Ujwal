@@ -127,7 +127,7 @@ This project is licensed under the MIT License.
 
 # Support
 
-If you encounter any issues or have questions, please contact our support team at mr.akikhossain@gmail.com
+If you encounter any issues or have questions, please contact our support team at ujwalsharma83@gmail.com
 
 # Acknowledgments
 
