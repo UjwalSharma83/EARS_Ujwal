@@ -79,7 +79,7 @@ Follow the steps below to set up and run the Employee Management System on your 
 2.  **Clone the Repository**: Clone this repository to your server or local development environment.
 
     ```bash
-    https://github.com/akikhossain/Employee-Management-System.git
+https://github.com/UjwalSharma83/EARS_Ujwal
 
     ```
 
